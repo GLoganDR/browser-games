@@ -1,10 +1,10 @@
-## name of project
+browser-games
 ### Code Badges
 build status icon
 coverage status icon
 
 ### About
-write a description about your project
+Class learning exercise to understand jQuery and Ajax
 
 ### Models
 ```
@@ -24,9 +24,9 @@ prop-f
 ```
 
 ### Features
-- feature 1
-- feature 2
-- feature 3
+- jQuery
+- Ajax
+
 
 ### Running Tests
 ```bash
@@ -35,7 +35,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Logan Richardson](https://github.com/GLoganDR)
 
 ### License
 [MIT](LICENSE)
